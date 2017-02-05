@@ -1,0 +1,9 @@
+c:\users\chris\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp1.0\PrimeNumbers.deps.json
+c:\users\chris\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp1.0\PrimeNumbers.runtimeconfig.json
+c:\users\chris\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp1.0\PrimeNumbers.runtimeconfig.dev.json
+c:\users\chris\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp1.0\PrimeNumbers.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp1.0\PrimeNumbers.AssemblyInfo.cs
+c:\users\chris\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp1.0\PrimeNumbers.dll
+c:\users\chris\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp1.0\PrimeNumbers.pdb
+c:\users\chris\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp1.0\PrimeNumbers.dll
+c:\users\chris\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp1.0\PrimeNumbers.pdb
