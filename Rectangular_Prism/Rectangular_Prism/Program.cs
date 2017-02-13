@@ -26,9 +26,10 @@ class Program
             double z = double.Parse(Console.ReadLine());
 
             Prism newPrism = new Prism(x, y, z);
-            Console.WriteLine("The volume of the prism is: "+(x*y*z)+" cubic units");
-            Console.WriteLine("The surface area of the prism is: "+((2*x*y)+(2*x*z)+(2*z*y))+" square units");
-            if(x==y && y == z)
+            Console.WriteLine("The volume of the prism is: "+(newPrism.Width*newPrism.Height*newPrism.Depth)+" cubic units");
+            Console.WriteLine("The surface area of the prism is: "+((2*newPrism.Width*newPrism.Height)+(2*newPrism.Width*newPrism.Depth)+(2*newPrism.
+                *newPrism.Height))+" square units");
+            if(newPrism.Width==newPrism.Height && newPrism.Height == newPrism.Depth)
             {
                 Console.WriteLine("This prism is a cube");
             }
